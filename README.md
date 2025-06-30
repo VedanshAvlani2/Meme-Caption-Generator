@@ -9,7 +9,7 @@ This project generates meme captions without using LLMs! Instead, it uses a smar
 - Display and annotate meme images with the generated captions.
 
 ## Dataset & Inputs
-- **Images**: Folder of meme images located at `images/images/`
+- **Images**: available for download at "https://www.kaggle.com/datasets/hammadjavaid/6992-labeled-meme-images-dataset"
 - **Metadata**: `labels.csv` containing columns like `image_name`, `text_ocr`, and `overall_sentiment`
 
 ## Technologies Used
